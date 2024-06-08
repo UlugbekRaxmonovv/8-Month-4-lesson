@@ -1,0 +1,61 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Mevalar",
+      "price": 100,
+      "img": "https://timedia.tierient.com/timg/b5efb939be7b24e9.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis eligendi iste quibusdam facere, adipisci qui dolor neque similique, at architecto vel assumenda suscipit enim. Vel itaque nulla eos. Iusto, beatae."
+    },
+    {
+      "id": "2",
+      "title": "Mevalar",
+      "price": 1500,
+      "img": "https://suret.pics/uploads/posts/2023-09/1695302326_1-2.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis eligendi iste quibusdam facere, adipisci qui dolor neque similique, at architecto vel assumenda suscipit enim. Vel itaque nulla eos. Iusto, beatae."
+    },
+    {
+      "id": "3",
+      "title": "Mevalar",
+      "price": 2500,
+      "img": "https://tabiri.ru/wp-content/uploads/2018/10/tushda-mevalar.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis eligendi iste quibusdam facere, adipisci qui dolor neque similique, at architecto vel assumenda suscipit enim. Vel itaque nulla eos. Iusto, beatae."
+    },
+    {
+      "id": "5",
+      "title": "Mevalar",
+      "price": 2500,
+      "img": "https://unews.uz/uploads/03-2021/0KWGkIAuI0m9RJ5gbVne3qHiAPofMJv8GvVxw6w2.jpeg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis eligendi iste quibusdam facere, adipisci qui dolor neque similique, at architecto vel assumenda suscipit enim. Vel itaque nulla eos. Iusto, beatae."
+    },
+    {
+      "id": "6",
+      "title": "Mevalar",
+      "price": 1200,
+      "img": "https://helperia.ru/public/images/articles/a/ab/NarFrukt_1.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis eligendi iste quibusdam facere, adipisci qui dolor neque similique, at architecto vel assumenda suscipit enim. Vel itaque nulla eos. Iusto, beatae."
+    },
+    {
+      "id": "8",
+      "title": "Mevalar",
+      "price": 1450,
+      "img": "https://daryo.uz/cache/2021/03/86f3ce58168a3beef82450601469f91a0914-750x500.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis eligendi iste quibusdam facere, adipisci qui dolor neque similique, at architecto vel assumenda suscipit enim. Vel itaque nulla eos. Iusto, beatae."
+    },
+    {
+      "id": "9",
+      "title": "Mevalar",
+      "price": 2100,
+      "img": "https://i0.wp.com/selo.guru/wp-content/uploads/2017/11/yabloki_5_27195718-400x267.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis eligendi iste quibusdam facere, adipisci qui dolor neque similique, at architecto vel assumenda suscipit enim. Vel itaque nulla eos. Iusto, beatae."
+    },
+    {
+      "id": "10",
+      "title": "Mevalar",
+      "price": 1500,
+      "img": "https://daryo.uz/static/2021/03/tmb_16420_6866.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis eligendi iste quibusdam facere, adipisci qui dolor neque similique, at architecto vel assumenda suscipit enim. Vel itaque nulla eos. Iusto, beatae."
+    }
+  ],
+  "users": []
+}

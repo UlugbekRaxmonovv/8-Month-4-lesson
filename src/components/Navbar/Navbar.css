@@ -1,0 +1,90 @@
+
+*{
+    margin: 0;
+    padding: 0px ;
+    box-sizing: border-box;
+}
+
+.header{
+    position: sticky;
+    top: 0;
+    left: 0;
+    background-color: white;
+    z-index: 2000;
+    box-shadow: 2px 2px 8px 2px rgb(225, 225, 225);
+    padding: 40px 0;  
+}
+.header.fixed{
+    padding: 20px 0;
+    background-color: #99ff6a;
+    transition: .3s ease-in-out;
+    /* box-shadow: 1px 1px 15px 2px #707070; */
+}
+.n-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.n-lift{
+    flex: 1;
+    align-items: center;
+    display: flex;
+    gap: 2rem;
+}
+.n-name img{
+    max-width: 50px;
+    width: 100%;
+    border-radius: 50%;
+    height: 50px;
+    margin-left: 40px;
+}
+.n-rigth{
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    font-weight: normal
+}
+.n-list{
+    flex: 10;
+}
+.n-list ul{
+    display: flex;
+    gap: 2rem;
+    margin-right: 4rem;
+    font-family: "Reddit Sans", sans-serif;
+}
+
+.n-list ul a{
+    text-decoration: none;
+    font-family: "Reddit Sans", sans-serif;
+    color: black;
+}
+.n-list a:hover{
+    cursor: pointer;
+    color: orange;
+}
+.button{
+    border-radius: 34px;
+    border: none;
+    color: white;
+    font-family: "Reddit Sans", sans-serif;
+    font-size: 16px;
+    padding: 11px 6px 11px 0px;
+    background: linear-gradient(180deg, orange,orange);
+    /* box-shadow: 0px 10px 8px 1px rgb(248, 173, 33); */
+    flex: 2;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    transition: all .2s linear;
+    
+  }
+  .button a{
+    text-decoration: none;
+  }
+.button:hover{
+    background: white;
+    color: orange;
+    cursor: pointer;
+    border: 1px solid orange;
+}
